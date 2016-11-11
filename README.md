@@ -1,3 +1,3 @@
-# angular2-webpack
+# Virage
 
 A personal project named as virage
